@@ -1,0 +1,2 @@
+# hacktoberfest
+Color detection project
